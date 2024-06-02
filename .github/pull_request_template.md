@@ -19,4 +19,4 @@ _Enter the issue number of the bug(s) that this PR fixes_
 
 ## Prerequisites
 
-- [ ] Have you followed all the [CONTRIBUTING GUIDELINES](https://github.com/krishnaacharyaa/wanderlust/blob/main/.github/CONTRIBUTING.md#guidelines-for-contributions)?
+- [ ] Have you followed all the [CONTRIBUTING GUIDELINES](https://github.com/parneet13/project1jenkins/blob/main/.github/CONTRIBUTING.md#guidelines-for-contributions)?

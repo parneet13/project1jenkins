@@ -2,7 +2,7 @@
 
 WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
 
-![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
+![Preview Image](https://github.com/parneet13/project1jenkins/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
 ## [Figma Design File](https://www.figma.com/file/zqNcWGGKBo5Q2TwwVgR6G5/WanderLust--A-Travel-Blog-App?type=design&node-id=0%3A1&mode=design&t=c4oCG8N1Fjf7pxTt-1)
 ## [Discord Channel](https://discord.gg/FEKasAdCrG)
@@ -124,7 +124,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 
 ## 🌟 Ready to Contribute?
 
-Kindly go through [CONTRIBUTING.md](https://github.com/krishnaacharyaa/wanderlust/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
+Kindly go through [CONTRIBUTING.md](https://github.com/parneet13/project1jenkins/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
 
 ## 💖 Show Your Support
 

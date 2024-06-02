@@ -52,7 +52,7 @@ To setup the project locally follow the steps:
 
 To contribute to this project, you need to create a fork of the repository and then commit your changes to it. Follow these steps:
 
-1. Fork the repository if haven't done already from [wanderlust](https://github.com/krishnaacharyaa/wanderlust/)
+1. Fork the repository if haven't done already from [wanderlust](https://github.com/parneet13/project1jenkins/)
 2. Add your fork as a local project:
 
    ```sh
